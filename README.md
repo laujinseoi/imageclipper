@@ -24,3 +24,8 @@ THE SOFTWARE.
 HOW TO USE
  Drag and drop a directory having images or a video file onto imageclipper.exe
  See more http://code.google.com/p/imageclipper/
+ 
+### Windows
+```bash
+imageclipper.exe your_pictures_path
+```
